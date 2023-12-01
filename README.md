@@ -2,6 +2,6 @@
 ## Bases de datos centralGames
 ##ALUMNO David rodriguez jurado
 ##tbl_ventas
-![basededatos.png](https://github.com/OneDavidrdz131/CentralGamesDRJCrudPhp/blob/main/basededatos.png)
+![centralbd.png](https://github.com/OneDavidrdz131/UIII-Act-1-MVC-centralgames/blob/main/centralbd.png)
 
 
